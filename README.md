@@ -5,16 +5,25 @@
 </p>
 
 <p align="center">
-  I turn business questions into structured analysis, clear insights, and practical data solutions.
+  Turning business questions into structured analysis, clear insights, and practical data solutions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ## About Me
 
-I’m building on a foundation in analytics and business problem-solving while expanding into data science, machine learning, and data engineering.
+I work at the intersection of **business analysis and data**, using quantitative thinking to turn messy information into useful decisions.
 
-My focus is on creating projects that go beyond isolated exercises — from raw data and cleaning, through analysis and SQL, to visualization, predictive modeling, and eventually deployable data and ML workflows.
+My portfolio is focused on end-to-end work: understanding a business problem, preparing data, analyzing it with Python and SQL, communicating findings clearly, and progressively extending that work into statistical modeling, data pipelines, and production-minded ML workflows.
 
 ## Core Toolkit
 
@@ -24,55 +33,53 @@ SQL · PostgreSQL · Tableau · Power BI · Excel
 **Python & Data**  
 Python · pandas · NumPy · Matplotlib
 
-**Version Control & Workflow**  
+**Workflow**  
 Git · GitHub · GitHub Codespaces
 
-**Currently Building Toward**  
+**Expanding into**  
 Statistics · scikit-learn · ETL pipelines · dbt · Airflow · FastAPI · Docker · Cloud · MLOps
 
 ---
 
-## Featured Project
+## Featured Work
 
 ### 📦 [Supply Chain Analytics](https://github.com/Shahedr/supply-chain-analytics)
 
-An end-to-end analytics project using public USAID supply chain shipment data to investigate freight cost, delivery performance, vendors, countries, shipment modes, products, and logistics patterns.
+An end-to-end analytics case study using public USAID supply chain shipment data to examine **freight cost, delivery performance, vendors, countries, shipment modes, products, and logistics patterns**.
 
-**Current progress**
-- ✅ Dataset selection and documentation
-- ✅ Data inspection and validation
-- ✅ Data cleaning and type conversion
-- ✅ Delivery-delay calculation and extreme-value flagging
-- 🔄 Exploratory data analysis next
-- ⏳ SQL / PostgreSQL analysis
-- ⏳ Statistical analysis
-- ⏳ Dashboard and final recommendations
+**Completed so far**
+- Dataset selection and documentation
+- Data inspection and validation
+- Data cleaning and type conversion
+- Delivery-delay calculation
+- Extreme-value flagging for later analysis
 
-**Project stack:** Python · pandas · NumPy · SQL · PostgreSQL · Statistics · Tableau / Power BI · Git / GitHub
+**Next phases**
+- Exploratory data analysis in Python
+- SQL / PostgreSQL analysis
+- Statistical analysis
+- Dashboard development
+- Final findings and recommendations
 
----
+**Stack:** Python · pandas · NumPy · SQL · PostgreSQL · Statistics · Tableau / Power BI · Git / GitHub
 
-## Python Foundations
-
-### 🐍 [Python Practice](https://github.com/Shahedr/python-practice)
-
-A record of the Python foundation behind my project work, including data structures, loops, functions, error handling, file I/O, comprehensions, nested data, and a mini order-analysis exercise.
+[View the project →](https://github.com/Shahedr/supply-chain-analytics)
 
 ---
 
-## What I'm Building Toward
+## Technical Direction
 
-I’m developing a portfolio around four areas:
+I’m building toward a portfolio that demonstrates four connected capabilities:
 
-1. **Analytics** — Python, pandas, SQL, statistics, dashboards
-2. **Data Science** — preprocessing, model comparison, evaluation, explainability
-3. **Data Engineering** — APIs, PostgreSQL, ETL, dbt, Airflow
-4. **ML Engineering** — experiment tracking, APIs, Docker, cloud deployment, monitoring
+- **Analytics** — Python, pandas, SQL, statistics, dashboards
+- **Data Science** — preprocessing, model comparison, evaluation, explainability
+- **Data Engineering** — APIs, PostgreSQL, ETL, dbt, Airflow
+- **ML Engineering** — experiment tracking, APIs, Docker, cloud deployment, monitoring
 
-The goal is simple: build projects that are technically solid, easy to explain, and useful for real business decisions.
+My goal is to build work that is technically solid, easy to explain, reproducible, and useful for real business decisions.
 
 ---
 
 <p align="center">
-  <strong>Current focus:</strong> turning the Supply Chain Analytics project into a complete end-to-end portfolio case study.
+  <strong>Current focus:</strong> developing the Supply Chain Analytics project into a complete end-to-end portfolio case study.
 </p>
