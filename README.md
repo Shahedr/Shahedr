@@ -27,10 +27,10 @@
 | Project | What I worked on | Main tools |
 |---|---|---|
 | **[Supply Chain Analytics](https://github.com/Shahedr/supply-chain-analytics)** | Cleaned and analyzed 10K+ public shipment records; studied delivery timing, freight fields, shipment modes, and data-quality issues | Python, pandas, SciPy, SQL, PostgreSQL |
-| **[Retail SQL Analytics](https://github.com/Shahedr/retail-sql-analytics)** | Wrote business queries for revenue, customers, products, repeat purchasing, ranking, and segmentation | SQL, CTEs, window functions, Python |
-| **[Customer Churn ML](https://github.com/Shahedr/customer-churn-ml)** | Compared Logistic Regression and Random Forest in a reproducible churn-classification workflow | Python, scikit-learn, pandas |
+| **[Retail SQL Analytics](https://github.com/Shahedr/retail-sql-analytics)** | Used a reproducible practice dataset to write queries for revenue, repeat purchasing, product ranking, and customer segmentation | SQL, CTEs, window functions, Python |
+| **[Customer Churn ML](https://github.com/Shahedr/customer-churn-ml)** | Compared Logistic Regression and Random Forest on a synthetic customer dataset with a reproducible evaluation pipeline | Python, scikit-learn, pandas |
 | **[Monte Carlo Retirement Simulation](https://github.com/Shahedr/monte-carlo-retirement-simulation)** | Rebuilt a graduate analytics simulation to compare contribution scenarios under uncertainty | Python, NumPy, probability |
-| **[World Bank ETL Pipeline](https://github.com/Shahedr/world-bank-etl-pipeline)** | Built a small API → transform → CSV/PostgreSQL pipeline with an offline test mode | Python, REST API, PostgreSQL, Docker, pytest |
+| **[World Bank ETL Pipeline](https://github.com/Shahedr/world-bank-etl-pipeline)** | Built a small API → transform → CSV/PostgreSQL pipeline with an offline test mode and rerunnable upserts | Python, REST API, PostgreSQL, Docker, pytest |
 
 ---
 
