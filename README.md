@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shahed 👋</h1>
-<p align="center"><strong>Data & Business Analyst | Data Science | ML Engineering</strong></p>
-<p align="center">Turning business questions into structured analysis, predictive models, and practical data solutions.</p>
+<p align="center"><strong>Data & Business Analyst | Python · SQL · BI | Applied ML & Data Engineering</strong></p>
+<p align="center">I work best at the point where business questions, messy data, and practical analysis meet.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -22,52 +22,35 @@
 
 ---
 
-## Featured Portfolio
+## Selected Work
 
-| Project | Focus | Stack |
+| Project | What I worked on | Main tools |
 |---|---|---|
-| **[Supply Chain Analytics](https://github.com/Shahedr/supply-chain-analytics)** | Freight cost, delivery performance, vendors, countries, logistics | Python, pandas, SQL, PostgreSQL, BI |
-| **[Retail SQL Analytics](https://github.com/Shahedr/retail-sql-analytics)** | Revenue, customers, products, retention, segmentation | SQL, CTEs, window functions, Python |
-| **[Customer Churn ML](https://github.com/Shahedr/customer-churn-ml)** | Classification, preprocessing, model comparison, evaluation | Python, scikit-learn, ML |
-| **[Monte Carlo Retirement Simulation](https://github.com/Shahedr/monte-carlo-retirement-simulation)** | Probability, scenario modeling, uncertainty | Python, NumPy, statistics |
-| **[World Bank ETL Pipeline](https://github.com/Shahedr/world-bank-etl-pipeline)** | API ingestion, transformation, PostgreSQL loading | Python, APIs, PostgreSQL, Docker, ETL |
+| **[Supply Chain Analytics](https://github.com/Shahedr/supply-chain-analytics)** | Cleaned and analyzed 10K+ public shipment records; studied delivery timing, freight fields, shipment modes, and data-quality issues | Python, pandas, SciPy, SQL, PostgreSQL |
+| **[Retail SQL Analytics](https://github.com/Shahedr/retail-sql-analytics)** | Wrote business queries for revenue, customers, products, repeat purchasing, ranking, and segmentation | SQL, CTEs, window functions, Python |
+| **[Customer Churn ML](https://github.com/Shahedr/customer-churn-ml)** | Compared Logistic Regression and Random Forest in a reproducible churn-classification workflow | Python, scikit-learn, pandas |
+| **[Monte Carlo Retirement Simulation](https://github.com/Shahedr/monte-carlo-retirement-simulation)** | Rebuilt a graduate analytics simulation to compare contribution scenarios under uncertainty | Python, NumPy, probability |
+| **[World Bank ETL Pipeline](https://github.com/Shahedr/world-bank-etl-pipeline)** | Built a small API → transform → CSV/PostgreSQL pipeline with an offline test mode | Python, REST API, PostgreSQL, Docker, pytest |
 
 ---
 
-## Technical Stack
+## About Me
 
-**Programming & Data:** Python · SQL · pandas · NumPy · PostgreSQL · MySQL  
-**Analytics & BI:** Tableau · Power BI · Excel · KPI Reporting · Forecasting · Statistical Analysis  
-**Machine Learning:** scikit-learn · Classification · Regression · Feature Engineering · Model Evaluation · Monte Carlo Simulation  
-**Data Engineering:** REST APIs · ETL/ELT · SQLAlchemy · dbt · Airflow · Docker  
-**ML Engineering:** FastAPI · MLflow · Model Deployment · Monitoring · AWS  
-**Workflow:** Git · GitHub · GitHub Codespaces · Testing
+I have an M.S. in Business Analytics and professional experience across banking, supply chain, marketing, and operations. That background is why most of my projects start with a business question rather than a model or tool.
 
----
+My current portfolio covers three areas I want to keep building on: **analytics/BI, applied machine learning, and data pipelines**. I try to keep the projects reproducible and to document the assumptions and limitations instead of presenting every result as a production-ready conclusion.
 
-## Portfolio Highlights
+## Toolbox
 
-### 📦 Supply Chain Analytics
-End-to-end analysis of public USAID supply-chain shipment data covering freight cost, delivery performance, shipment modes, countries, products, and logistics patterns.
+**Used across my work and projects:** Python · SQL · PostgreSQL · MySQL · pandas · NumPy · scikit-learn · Tableau · Power BI · Excel · Git/GitHub · REST APIs · SQLAlchemy · Docker  
 
-### 🧾 Retail SQL Analytics
-Business-focused SQL case study using joins, CTEs, window functions, customer segmentation, repeat-purchase analysis, and KPI calculations.
+**Currently expanding into:** dbt · Airflow · MLflow · FastAPI · AWS · model deployment and monitoring
 
-### 🤖 Customer Churn Prediction
-Reproducible classification pipeline comparing Logistic Regression and Random Forest models on a deterministic 5,000-row synthetic customer dataset.
+## Current Focus
 
-### 📈 Monte Carlo Retirement Simulation
-10,000-run scenario simulation evaluating how annual contribution levels change the probability of reaching a $1M portfolio target over 20 years.
+- deeper SQL and analytics case studies
+- model evaluation and practical ML workflows
+- ETL/data-pipeline design
+- stronger dashboards and project storytelling
 
-### 🔄 World Bank ETL Pipeline
-Extract-transform-load workflow using the World Bank API, pandas, PostgreSQL, SQLAlchemy, Docker, and pytest.
-
----
-
-## Background
-
-M.S. in Business Analytics with professional experience across banking, supply chain, marketing, and operations. My work combines quantitative analysis, business context, and clear communication to support better decisions.
-
-<p align="center">
-  <strong>Open to Data Analyst, Business Analyst, Data Scientist, Analytics Engineer, Data Engineer, and ML-focused opportunities.</strong>
-</p>
+<p align="center"><strong>Open to Data Analyst, Business Analyst, and analytics-focused data roles.</strong></p>
