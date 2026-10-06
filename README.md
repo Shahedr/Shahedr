@@ -1,143 +1,63 @@
 <h1 align="center">Hi, I'm Shahed 👋</h1>
-
-<p align="center">
-  <strong>Data Analyst · Data Scientist · ML Engineer · Data Engineer</strong>
-</p>
-
-<p align="center">
-  Building end-to-end data products — from raw data and business questions to analytics, machine learning, pipelines, APIs, and deployment.
-</p>
+<p align="center"><strong>Data & Business Analyst | Data Science | ML Engineering</strong></p>
+<p align="center">Turning business questions into structured analysis, predictive models, and practical data solutions.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## About Me
+## Featured Portfolio
 
-I work across **analytics, data science, data engineering, and machine learning engineering**, with a strong focus on solving real business problems through data.
-
-My projects are designed as end-to-end case studies: defining the problem, preparing and validating data, exploring patterns, writing SQL, applying statistics and machine learning, building data pipelines, exposing models through APIs, and deploying reproducible workflows.
-
-I’m especially interested in projects where strong business thinking and technical implementation come together — not just building models, but building useful systems around them.
+| Project | Focus | Stack |
+|---|---|---|
+| **[Supply Chain Analytics](https://github.com/Shahedr/supply-chain-analytics)** | Freight cost, delivery performance, vendors, countries, logistics | Python, pandas, SQL, PostgreSQL, BI |
+| **[Retail SQL Analytics](https://github.com/Shahedr/retail-sql-analytics)** | Revenue, customers, products, retention, segmentation | SQL, CTEs, window functions, Python |
+| **[Customer Churn ML](https://github.com/Shahedr/customer-churn-ml)** | Classification, preprocessing, model comparison, evaluation | Python, scikit-learn, ML |
+| **[Monte Carlo Retirement Simulation](https://github.com/Shahedr/monte-carlo-retirement-simulation)** | Probability, scenario modeling, uncertainty | Python, NumPy, statistics |
+| **[World Bank ETL Pipeline](https://github.com/Shahedr/world-bank-etl-pipeline)** | API ingestion, transformation, PostgreSQL loading | Python, APIs, PostgreSQL, Docker, ETL |
 
 ---
 
 ## Technical Stack
 
-**Programming & Data**  
-Python · pandas · NumPy · Matplotlib · Jupyter · Data Cleaning · Exploratory Data Analysis
-
-**SQL & Databases**  
-SQL · PostgreSQL · Relational Modeling · Query Optimization · Data Transformation
-
-**Analytics & BI**  
-Tableau · Power BI · Excel · KPI Design · Dashboarding · Business Analysis · Data Storytelling
-
-**Statistics & Machine Learning**  
-Descriptive Statistics · Probability · Hypothesis Testing · Feature Engineering · scikit-learn · Regression · Classification · Model Evaluation · Cross-Validation · Explainability
-
-**Data Engineering**  
-ETL / ELT · APIs · PostgreSQL · dbt · Apache Airflow · Data Pipelines · Data Validation · Workflow Orchestration
-
-**ML Engineering & Deployment**  
-MLflow · FastAPI · Docker · Model Serving · Experiment Tracking · Monitoring · Cloud Deployment · AWS
-
-**Software Engineering & Workflow**  
-Git · GitHub · GitHub Codespaces · Virtual Environments · Logging · Configuration · Testing · Project Structure · REST APIs
+**Programming & Data:** Python · SQL · pandas · NumPy · PostgreSQL · MySQL  
+**Analytics & BI:** Tableau · Power BI · Excel · KPI Reporting · Forecasting · Statistical Analysis  
+**Machine Learning:** scikit-learn · Classification · Regression · Feature Engineering · Model Evaluation · Monte Carlo Simulation  
+**Data Engineering:** REST APIs · ETL/ELT · SQLAlchemy · dbt · Airflow · Docker  
+**ML Engineering:** FastAPI · MLflow · Model Deployment · Monitoring · AWS  
+**Workflow:** Git · GitHub · GitHub Codespaces · Testing
 
 ---
 
-## Featured Portfolio Project
+## Portfolio Highlights
 
-### 📦 [Supply Chain Analytics](https://github.com/Shahedr/supply-chain-analytics)
+### 📦 Supply Chain Analytics
+End-to-end analysis of public USAID supply-chain shipment data covering freight cost, delivery performance, shipment modes, countries, products, and logistics patterns.
 
-End-to-end analysis of public USAID supply chain shipment data covering freight cost, delivery performance, vendors, countries, shipment modes, products, and logistics patterns.
+### 🧾 Retail SQL Analytics
+Business-focused SQL case study using joins, CTEs, window functions, customer segmentation, repeat-purchase analysis, and KPI calculations.
 
-**Work completed**
-- Dataset selection and documentation
-- Data inspection and schema review
-- Missing-value and data-quality analysis
-- Date cleaning and type conversion
-- Numeric cleaning for freight cost and shipment weight
-- Delivery-delay calculation
-- Extreme-value flagging for later analysis
-- Git branch / pull request workflow
+### 🤖 Customer Churn Prediction
+Reproducible classification pipeline comparing Logistic Regression and Random Forest models on a deterministic 5,000-row synthetic customer dataset.
 
-**Project scope**
-- Exploratory analysis with Python and pandas
-- SQL / PostgreSQL business analysis
-- Statistical analysis
-- KPI development and visualization
-- Tableau / Power BI dashboard
-- Final business findings and recommendations
-- Potential predictive modeling extension
+### 📈 Monte Carlo Retirement Simulation
+10,000-run scenario simulation evaluating how annual contribution levels change the probability of reaching a $1M portfolio target over 20 years.
 
-**Stack:** Python · pandas · NumPy · SQL · PostgreSQL · Statistics · Tableau / Power BI · Git / GitHub
-
-[View the project →](https://github.com/Shahedr/supply-chain-analytics)
+### 🔄 World Bank ETL Pipeline
+Extract-transform-load workflow using the World Bank API, pandas, PostgreSQL, SQLAlchemy, Docker, and pytest.
 
 ---
 
-## Portfolio Roadmap
+## Background
 
-### 📊 1. Analytics Case Study — Supply Chain Analytics
-**Python · pandas · SQL · PostgreSQL · Statistics · Tableau / Power BI**
-
-Business-focused analysis combining data cleaning, SQL, statistical reasoning, KPIs, visualization, and recommendations.
-
-### 🤖 2. Applied Machine Learning Project
-**Python · pandas · scikit-learn · Feature Engineering · Model Comparison · Explainability**
-
-A complete supervised machine learning workflow covering preprocessing, baseline models, feature engineering, cross-validation, model evaluation, explainability, and business interpretation.
-
-### 🔄 3. Data Engineering Pipeline
-**Python · REST API · PostgreSQL · dbt · Apache Airflow · ETL / ELT**
-
-An automated pipeline that ingests data from an API, validates and loads it into PostgreSQL, transforms it with dbt, and orchestrates the workflow with Airflow.
-
-### 🚀 4. ML Engineering & Deployment Project
-**scikit-learn · MLflow · FastAPI · Docker · AWS · Monitoring**
-
-An end-to-end ML system covering experiment tracking, model packaging, API serving, containerization, cloud deployment, and monitoring.
-
-### 🧠 5. Deep Learning Project
-**Python · PyTorch · Neural Networks · Model Training · Evaluation**
-
-A later-stage project focused on deep learning fundamentals and production-oriented experimentation.
-
----
-
-## What I Bring
-
-- Strong business problem framing
-- Analytics and decision-support thinking
-- SQL and Python-based data work
-- End-to-end project ownership
-- Clear communication of technical findings
-- Practical, reproducible workflows
-- A growing portfolio that connects analytics, data science, engineering, and ML deployment
-
----
-
-## Current Focus
-
-Building the **Supply Chain Analytics** project into a polished end-to-end case study, then progressing into machine learning, data engineering, and ML deployment projects.
+M.S. in Business Analytics with professional experience across banking, supply chain, marketing, and operations. My work combines quantitative analysis, business context, and clear communication to support better decisions.
 
 <p align="center">
   <strong>Open to Data Analyst, Business Analyst, Data Scientist, Analytics Engineer, Data Engineer, and ML-focused opportunities.</strong>
