@@ -22,6 +22,15 @@
 
 ---
 
+## Reusable Projects
+
+| Project | What it does |
+|---|---|
+| **[Data Quality Detective](https://github.com/Shahedr/data-quality-detective)** | Command-line profiler for CSV/Excel files that flags duplicates, missing values, mixed numeric/text fields, invalid dates, and potential outliers; includes tests and generated Markdown/HTML reports |
+| **[Analyst SQL Playbook](https://github.com/Shahedr/analyst-sql-playbook)** | PostgreSQL practice repo with a reproducible retail dataset, business-focused challenges, worked solutions, Docker setup, and SQL validation in GitHub Actions |
+
+---
+
 ## Selected Work
 
 | Project | What I worked on | Main tools |
@@ -48,6 +57,7 @@ My current portfolio covers three areas I want to keep building on: **analytics/
 
 ## Current Focus
 
+- small reusable tools for analysts
 - deeper SQL and analytics case studies
 - model evaluation and practical ML workflows
 - ETL/data-pipeline design
