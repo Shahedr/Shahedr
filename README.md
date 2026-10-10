@@ -26,8 +26,10 @@
 
 | Project | What it does |
 |---|---|
-| **[Data Quality Detective](https://github.com/Shahedr/data-quality-detective)** | Command-line profiler for CSV/Excel files that flags duplicates, missing values, mixed numeric/text fields, invalid dates, and potential outliers; includes tests and generated Markdown/HTML reports |
+| **[Data Quality Detective](https://github.com/Shahedr/data-quality-detective)** · **[PyPI](https://pypi.org/project/dqdetect/)** | Open-source Python CLI for first-pass CSV/Excel profiling; published on PyPI, tested across Python 3.10–3.13 with GitHub Actions CI, and generates Markdown/HTML reports without auto-cleaning source data |
 | **[Analyst SQL Playbook](https://github.com/Shahedr/analyst-sql-playbook)** | PostgreSQL practice repo with a reproducible retail dataset, business-focused challenges, worked solutions, Docker setup, and SQL validation in GitHub Actions |
+
+Install Data Quality Detective: `pip install dqdetect`
 
 ---
 
