@@ -26,7 +26,7 @@
 
 | Project | What it does |
 |---|---|
-| **[Data Quality Detective](https://github.com/Shahedr/data-quality-detective)** · **[PyPI](https://pypi.org/project/dqdetect/)** | Open-source Python CLI for first-pass CSV/Excel profiling; published on PyPI, tested across Python 3.10–3.13 with GitHub Actions CI, and generates Markdown/HTML reports without auto-cleaning source data |
+| **[Data Quality Detective](https://github.com/Shahedr/data-quality-detective)** · **[PyPI](https://pypi.org/project/dqdetect/)** · **[v1.0.0](https://github.com/Shahedr/data-quality-detective/releases/tag/v1.0.0)** | Open-source Python CLI for first-pass CSV/Excel and optional database-table profiling; published on PyPI with Markdown/HTML/JSON reports, schema checks, dataset comparison, CI integration, and automated tests |
 | **[Analyst SQL Playbook](https://github.com/Shahedr/analyst-sql-playbook)** | PostgreSQL practice repo with a reproducible retail dataset, business-focused challenges, worked solutions, Docker setup, and SQL validation in GitHub Actions |
 
 Install Data Quality Detective: `pip install dqdetect`
