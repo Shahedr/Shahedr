@@ -1,32 +1,30 @@
 <h1 align="center">Hi, I'm Shahed 👋</h1>
-<p align="center"><strong>Data & Business Analyst | Python · SQL · BI | Applied ML & Data Engineering</strong></p>
+<p align="center"><strong>Data & Business Analyst | Python · SQL · BI | Data Engineering &amp; Applied ML</strong></p>
 <p align="center">I work best at the point where business questions, messy data, and practical analysis meet.</p>
 
-<p align="center">
+<p align="center"><strong>Core Analytics</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+<p align="center"><strong>Data Engineering</strong><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+<p align="center"><strong>ML &amp; Development</strong><br>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
-
 ---
 
 ## Reusable Projects
 
 | Project | What it does |
 |---|---|
-| **[Data Quality Detective](https://github.com/Shahedr/data-quality-detective)** · **[PyPI](https://pypi.org/project/dqdetect/)** · **[v1.0.0](https://github.com/Shahedr/data-quality-detective/releases/tag/v1.0.0)** | Open-source Python CLI for first-pass CSV/Excel and optional database-table profiling; published on PyPI with Markdown/HTML/JSON reports, schema checks, dataset comparison, CI integration, and automated tests |
+| **[Data Quality Detective](https://github.com/Shahedr/data-quality-detective)** · **[Live Web App](https://data-quality-detective-demo.vercel.app)** · **[PyPI](https://pypi.org/project/dqdetect/)** · **[v1.0.0](https://github.com/Shahedr/data-quality-detective/releases/tag/v1.0.0)** | Free, open-source CSV and Excel data quality checker with a web app, Python CLI, and GitHub Action. Supports automated profiling, schema checks, dataset comparison, and downloadable reports. |
 | **[Analyst SQL Playbook](https://github.com/Shahedr/analyst-sql-playbook)** | PostgreSQL practice repo with a reproducible retail dataset, business-focused challenges, worked solutions, Docker setup, and SQL validation in GitHub Actions |
 
 Install Data Quality Detective: `pip install dqdetect`
